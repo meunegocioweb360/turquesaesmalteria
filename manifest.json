@@ -1,9 +1,8 @@
 {
+ "theme_color": "#FFFFFF",
  "name": "Turquesa Esmalteria Portal do Morumbi - Tour Virtual 360°",
- "start_url": "index.htm",
  "description": "Av. Dr. Guilherme Dumont Vilares, 1269 L12T - Vila Suzana, São Paulo - SP, 05640-002",
  "background_color": "#FFFFFF",
- "theme_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -41,5 +40,6 @@
    "sizes": "64x64"
   }
  ],
+ "start_url": "index.htm",
  "display": "fullscreen"
 }
